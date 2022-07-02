@@ -17,7 +17,7 @@ To open the Unity Project, Open the folder **Code Day 2022** from the Unity Hub.
 - []  The Game will be uploaded to Itch.io at the end of the project where it can be shared
 	
 	Core Game mechanics that will be assigned to team members to accomplish with aid of tutorials:
-- [] Player will be able to move character on screen through keyboard or controller
+- [] Player will be able to move character on screen through keyboard or controller #4
 
 - [] Game will have a Pause Menu
 - [] Game will save player progress on level
