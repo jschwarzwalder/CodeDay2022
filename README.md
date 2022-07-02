@@ -20,6 +20,7 @@ To open the Unity Project, Open the folder **Code Day 2022** from the Unity Hub.
 - [] Player will be able to move character on screen through keyboard or controller
 
 - [] Game will have a Pause Menu
+- [] Game will have a Level Select Screen
 - [] Game will save player progress on level
 
 - [] Main character will utilize premade assets
