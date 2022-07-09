@@ -5,7 +5,7 @@ Project is for Code Day Labs https://labs.codeday.org/
 Created with Unity 2021.3.5f1
 
 * Developer - Youssef Elshabasy
-* Developer - 
+* Developer - Kevin Tieu
 * Mentor - Jami Schwarzwalders
 
 To open the Unity Project, Open the folder **Code Day 2022** from the Unity Hub.
