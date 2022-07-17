@@ -32,8 +32,16 @@ public class PlayerScript : MonoBehaviour
 
     private void SetAnimation()
     {
-        animator.SetFloat("Horizontal", movement.x);
-        animator.SetFloat("Vertical", movement.y);
+        if (movement.x == 0 && movement.y != 0 || movement.x != 0 && movement.y == 0)
+        {
+            animator.SetFloat("Horizontal", movement.x);
+            animator.SetFloat("Vertical", movement.y);
+        }
+        else if (movement.x != 0 && movement.y != 0)
+        {
+            animator.SetFloat("Horizontal", movement.x);
+            animator.SetFloat("Vertical", 0);
+        }
 
         if (movement.x == 0 && movement.y == 0)
             animator.SetBool("IsMoving", false);

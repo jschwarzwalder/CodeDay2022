@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0d5236f2f05f8044a822b3e2d48c1599
+guid: 3769a7fd716686b4aa5582caffd70478
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,7 +69,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -118,8 +118,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0bcea68bf1d7324b9f4cbc3c003c7a6
-      internalID: -414450703
+      spriteID: 2c799fe584ba7444cb6cf8bdbf6e041d
+      internalID: 1002140965
       vertices: []
       indices: 
       edges: []
@@ -139,8 +139,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e15c25a20efd01429317f1522df2561
-      internalID: -758928194
+      spriteID: 09f74398c297efa4686afaab37c14201
+      internalID: 435515953
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4195539a7726b3240b7524f23a14d682
-      internalID: 1608863896
+      spriteID: a0a4f5b6c74cd36479defe4787299d0e
+      internalID: 1703487557
       vertices: []
       indices: 
       edges: []
@@ -181,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a96965902d8335a42ab3de4881af1830
-      internalID: -1053887454
+      spriteID: df5c7d636c3585048ab95b852c7e5430
+      internalID: 927282621
       vertices: []
       indices: 
       edges: []
@@ -198,10 +198,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      idle_3: -1053887454
-      idle_0: -414450703
-      idle_1: -758928194
-      idle_2: 1608863896
+      idle_3: 927282621
+      idle_0: 1002140965
+      idle_1: 435515953
+      idle_2: 1703487557
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
