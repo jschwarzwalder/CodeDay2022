@@ -14,7 +14,7 @@ Code Day 2022/[Mm]emoryCaptures/
 !/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
-Code Day 2022/[Aa]ssets/AssetStoreTools*
+# Code Day 2022/[Aa]ssets/AssetStoreTools*
 #per artist's request
 Code Day 2022/Assets/Sprites/PlayerSprite.png 
 Code Day 2022/Assets/Sprites/idle.png
